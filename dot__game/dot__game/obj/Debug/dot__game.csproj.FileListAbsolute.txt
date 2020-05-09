@@ -1,0 +1,9 @@
+C:\Users\Никита\source\repos\dot__game\dot__game\bin\Debug\dot__game.exe.config
+C:\Users\Никита\source\repos\dot__game\dot__game\bin\Debug\dot__game.exe
+C:\Users\Никита\source\repos\dot__game\dot__game\bin\Debug\dot__game.pdb
+C:\Users\Никита\source\repos\dot__game\dot__game\obj\Debug\dot__game.csprojAssemblyReference.cache
+C:\Users\Никита\source\repos\dot__game\dot__game\obj\Debug\dot__game.Form1.resources
+C:\Users\Никита\source\repos\dot__game\dot__game\obj\Debug\dot__game.Properties.Resources.resources
+C:\Users\Никита\source\repos\dot__game\dot__game\obj\Debug\dot__game.csproj.GenerateResource.cache
+C:\Users\Никита\source\repos\dot__game\dot__game\obj\Debug\dot__game.exe
+C:\Users\Никита\source\repos\dot__game\dot__game\obj\Debug\dot__game.pdb
