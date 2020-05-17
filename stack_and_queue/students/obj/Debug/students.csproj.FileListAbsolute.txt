@@ -1,0 +1,9 @@
+C:\Users\Никита\source\repos\students\students\bin\Debug\students.exe.config
+C:\Users\Никита\source\repos\students\students\bin\Debug\students.exe
+C:\Users\Никита\source\repos\students\students\bin\Debug\students.pdb
+C:\Users\Никита\source\repos\students\students\obj\Debug\students.csprojAssemblyReference.cache
+C:\Users\Никита\source\repos\students\students\obj\Debug\students.Form1.resources
+C:\Users\Никита\source\repos\students\students\obj\Debug\students.Properties.Resources.resources
+C:\Users\Никита\source\repos\students\students\obj\Debug\students.csproj.GenerateResource.cache
+C:\Users\Никита\source\repos\students\students\obj\Debug\students.exe
+C:\Users\Никита\source\repos\students\students\obj\Debug\students.pdb
